@@ -6,11 +6,11 @@
 
 <br>
 
-## 02. 3주차 수업
+## 02. [깃 내용 살짝 정리](https://github.com/namerim/Git-Study/blob/main/studying.md "깃 내용 살짝 정리")
 
 <br>
 
-## 03. 4주차 수업
+## 03. [Git diff]()
 
 <br>
 
