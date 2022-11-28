@@ -14,4 +14,4 @@
 
 <br>
 
-## 04. [git stash]
+## 04. [git stash,clean](https://github.com/namerim/Git-Study/blob/main/git%20stash.md "Git stash, clean)
