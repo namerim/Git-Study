@@ -10,7 +10,7 @@
 
 <br>
 
-## 03. [Git diff](https://github.com/namerim/Git-Study/tree/main "Git diff")
+## 03. [Git diff](https://github.com/namerim/Git-Study/blob/main/git%20diff.md "Git diff")
 
 <br>
 
